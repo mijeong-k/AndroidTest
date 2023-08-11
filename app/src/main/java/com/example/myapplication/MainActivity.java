@@ -20,7 +20,6 @@ public class MainActivity extends AppCompatActivity {
         rg = findViewById(R.id.radioGroup01);
         rb1 = findViewById(R.id.radio01);
         rb2 = findViewById(R.id.radio02);
-
     }
 
     public void onSelectButtonClicked(View view) {
